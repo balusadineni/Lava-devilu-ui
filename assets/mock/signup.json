@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "message": "Signed Up!, Well lets do some finance",
+  "token": "abcd1234",
+  "user": {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com"
+  }
+}
